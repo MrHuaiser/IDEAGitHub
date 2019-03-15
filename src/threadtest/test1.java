@@ -1,5 +1,7 @@
 package threadtest;
 
 public class test1 {
-    Thread th1 = new Thread();
+    public static void main(String [] args){
+        System.out.println("ssdad");
+    }
 }
